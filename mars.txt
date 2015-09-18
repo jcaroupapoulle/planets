@@ -2,3 +2,6 @@ blabla
 more bla
 more comments added
 Dev B line
+Dev A added this line
+conflict resolved
+
